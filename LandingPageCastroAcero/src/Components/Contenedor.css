@@ -1,0 +1,22 @@
+/* Contenedor.css */
+
+/* Estilos para el contenedor principal */
+.list-group {
+  background-color: #9e1919; /* Cambia el color de fondo del contenedor principal */
+}
+
+/* Estilos para los elementos de la lista */
+.list-group-item {
+  color: #ff0000; /* Cambia el color del texto de los elementos de la lista */
+}
+
+/* Estilos para los enlaces dentro de los elementos de la lista */
+.list-group-item a {
+  color: #00ff00; /* Cambia el color de los enlaces */
+}
+
+/* Estilos para los íconos */
+.text-white img,
+.text-white .bi {
+  color: #0000ff; /* Cambia el color de los íconos */
+}
