@@ -35,29 +35,10 @@ export default function Contenedor() {
           rel="noopener noreferrer"
           className="text-dark"
         >
-          Video de presentación
+          Video institucional
         </a>
       </ListGroup.Item>
-      <ListGroup.Item action variant="secondary">
-        <a
-          href="https://maps.app.goo.gl/jHTNuYhv8dde8Mc37"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-dark"
-        >
-          Sucursal Peralvillo, CDMX
-        </a>
-      </ListGroup.Item>
-      <ListGroup.Item action variant="secondary">
-        <a
-          href="https://maps.app.goo.gl/hN4qLydPpw2dfePm6"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-dark"
-        >
-          Sucursal Tecámac, Edo. de México
-        </a>
-      </ListGroup.Item>
+
       <ListGroup.Item variant="secondary">
         <div className="container">
           <div className="row">

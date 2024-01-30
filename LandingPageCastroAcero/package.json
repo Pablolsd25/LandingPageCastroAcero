@@ -14,7 +14,8 @@
     "bootstrap-sass": "^3.4.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.1",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-iframe": "^1.8.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
